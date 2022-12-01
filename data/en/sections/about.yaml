@@ -8,70 +8,70 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: IT Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Kenac Computer Systems.
+  url: "https://www.kenac.co.zw"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate cloud enthusiasty with experience in networking, virtualization, backups, server administration and also architecture.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "emmanuelmusuwo@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/emmanuelkmusuwo"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/emmanuel-kelvin-musuwo-011779b5/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/emmanuel_musuwo_cv.docx"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: AWS Certified Solutions Architect – Associate
+  url: "https://www.credly.com/earner/earned/badge/3791692f-b64a-4ed7-92e8-ae4ff2413590"
+  badge: "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Cisco Certified Network Professional Enterprise (CCNP Enterprise)
+  url: "https://www.credly.com/earner/earned/badge/5308a9be-7ef8-4b1d-8a0f-0b3002dffd0c"
+  badge: "https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Veeam Certified Engineer 2020 (VMCE 2020)
+  url: "https://www.credly.com/earner/earned/badge/cd805d5d-489c-4105-ae98-28de0a7c31d4"
+  badge: "https://images.credly.com/size/340x340/images/a1bfcf6c-5b71-411f-96c1-87ee17e0e1b8/VMCE_certification_badge_2.png"
+
+- type: certification
+  name: The Open Group Certified TOGAF® Standard, Version 9.2
+  url: "https://www.credly.com/earner/earned/badge/17c7cadf-b703-4dcc-a40b-288ad07740bc"
+  badge: "https://images.credly.com/size/340x340/images/5b24bb54-2eb2-4833-bd56-02c94a02092d/badge-togaf-version-9.2.png"
+
+- type: certification
+  name: Microsoft Certified Azure Fundamentals
+  url: "https://www.credly.com/earner/earned/badge/238da706-1f5c-447d-86d9-673f4471f0e2"
+  badge: "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
 
 - type: soft-skill-indicator
   name: Leadership
@@ -80,13 +80,18 @@ badges:
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 95
   color: orange
+
+- type: soft-skill-indicator
+  name: Self Starter
+  percentage: 95
+  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

@@ -11,54 +11,41 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Kenac Computer Systems.
+    url: "https://www.kenac.co.zw"
+    location: Harare
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Kenac  . is a widely recognized company providing ICT services to a variety of sectors in zimbabwe and the sadc region
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: DataCenter Team Lead
+    start: July 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design Network architecture for Kenac DataCenter and its clients.
+    - Implement network architecture as per designs.
+    - Lead DataCenter team.
+    - Managing and maintaining an appropriate service structure that supports the needs of business and clients.
+    - Test Backups and make sure the available backups and backup policies are in line with the BCP plan.
+    - Provide and manage VMWARE virtual computing resources (storage, memory and CPUs)
+    - Oversee application implementation and configuration, patches, upgrades and maintenance, and ensure that application performance meets agreed SLAs and OLAs
+    - Coordinate and execute unplanned maintenance tasks, such as disaster recovery procedures, for production IT services to prevent and to minimize issues
+    - Develop and communicate training and documentation for end users
+    - Liaising with business stakeholders and customers, external solution providers, and IT stakeholders for application support specific requirements
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Information Technology Support Assistant
+    start: Jan 2017
+    end: June 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Performed Windows 2012/16/19 Server installations and Administrations
+    - Coordinated REDHAT 6/7/8, CentOS 6/7/8 and UBUNTU Server deployments and administration for clients PaaS Environments.
+    - Developed training materials and conducting end user trainings for implemented systems
+    - Responsible for infrastructure architecture design to increase systems performance for key clients projects including ZB Bank, Econet Wireless & Steward Bank 
+    - Supported customer solutions such as IBM WAS, VEEAM Backup and Recovery and VMware ESXi and VCENTER.
+    - Responsible for daily systems administration of IBM Business Process Manager, IBM WebSphere App Server, virtual and Linux environments.
+    - Provided first level support for network outages and performance. Responsible for monitoring and implementing monitoring solutions for Servers and the networking environment
+    - Performed routine system checks to implement preventative and restorative measures
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+
